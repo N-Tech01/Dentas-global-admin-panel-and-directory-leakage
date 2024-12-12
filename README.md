@@ -7,7 +7,7 @@ My name is Navarath, and I would like to bring a potential security issue to you
 ## Description of the Issue
 While searching through Google, I came across the **directory**,**admin control panel** of the Dentas Global website. This panel contains sensitive information about that site. I am unsure if this data is real or accessible to unauthorized users, so I reported it to the official team but i didn't get any response.Few days after, I checked that website but now it is not working.
 
-The affected page was:  
+The admin page was:  
 `https://www.dentasglobal.com/eng/admin/php-jwt-main/src/`  
 
 Unfortunately, this page no longer seems to be active, but I have attached screenshots of the panel for your reference.
