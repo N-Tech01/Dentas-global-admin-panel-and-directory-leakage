@@ -5,7 +5,7 @@ Hello,
 My name is Navarath, and I would like to bring a potential security issue to your attention. I discovered this issue while exploring websites using Google Dorks as part of my learning in basic ethical hacking at CADD Centre. I am currently studying in the 8th standard.
 
 ## Description of the Issue
-While searching through Google, I came across the **admin control panel** of the Dentas Global website. This panel contains sensitive information about that site. I am unsure if this data is real or accessible to unauthorized users, so I reported it to the official team but i didn't get any response.Few days after, I checked that website but now it is not working.
+While searching through Google, I came across the **directory**,**admin control panel** of the Dentas Global website. This panel contains sensitive information about that site. I am unsure if this data is real or accessible to unauthorized users, so I reported it to the official team but i didn't get any response.Few days after, I checked that website but now it is not working.
 
 The affected page was:  
 `https://www.dentasglobal.com/eng/admin/php-jwt-main/src/`  
@@ -24,6 +24,7 @@ Please review this report and ensure the security of your website. Kindly take n
 
 ## Screenshots
 I will attach the pictures in this repository.  
+(Screenshot 2024-11-22 195848)
 (Screenshot 2024-11-22 195828)
 
 ## Disclaimer
