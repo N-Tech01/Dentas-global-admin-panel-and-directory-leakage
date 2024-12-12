@@ -14,7 +14,7 @@ Unfortunately, this page no longer seems to be active, but I have attached scree
 
 ## Steps
 1. Use Google Dorks to search for sensitive sites (e.g., admin control panels).
-2. Review the found pages and verify if they contain any sensitive or unauthorized information.
+2. Verify if they contain any sensitive or unauthorized information.
 
 > **Disclaimer**: This project is for educational purposes only.  
 > **Note**: The page may no longer be functional.
