@@ -1,4 +1,4 @@
-# Dentas Global Website Vulnerability Report
+# Dentas Global Website Admin panel and Directory leakage Report
 
 ## Overview
 Hello,  
