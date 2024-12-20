@@ -1,4 +1,4 @@
-# Website Vulnerability Report
+# Dentas Global Website Vulnerability Report
 
 ## Overview
 Hello,  
